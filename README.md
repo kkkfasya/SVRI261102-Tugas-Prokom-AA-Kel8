@@ -1,7 +1,8 @@
 # Python Port Scanner
 
-Python Port Scanner is a Python script that allows you to identify open ports on one or more specified IP addresses received as argument (via command line or file).
-
+Python Port Scanner is a Python script that allows you to identify open ports on one or more specified IP addresses received as argument (via command line or file).  
+Originally developed by [dev-angelist](https://github.com/dev-angelist), this project is then extended by [Fasya](https://github.com/kkkfasya/) for uni assignment purpose  
+See Original Project Here: https://github.com/dev-angelist/Python-Port-Scanner
 
 ![image](https://github.com/dev-angelist/Python-Port-Scanner/assets/105108242/1c18de87-b48e-44b6-9a01-f676bd175021)
 
@@ -9,16 +10,17 @@ Python Port Scanner is a Python script that allows you to identify open ports on
 ## Requirements
 
 - Python 3.x
-- pyfiglet library (installable via `pip install pyfiglet`)
+- pyfiglet library
 
 ## Download
 
 On the repository page, click on the "Code" button located near the top-right corner. This will open a dropdown menu with a few options. Select "Download ZIP" to download the repository as a ZIP file. Or use following command via terminal:
 
 ```
-git clone https://github.com/dev-angelist/Python-Port-Scanner
+git clone https://github.com/kkkfasya/SVRI261102-Tugas-Prokom-AA-Kel8
+cd SVRI261102-Tugas-Prokom-AA-Kel8
+uv sync
 ```
-
 
 ## Usage
 
@@ -83,6 +85,7 @@ If you wish to contribute to this project, follow these steps:
 ## Author
 
 @dev-angelist ([GitHub profile](https://github.com/dev-angelist)) 
+@kkkfasya ([GitHub profile](https://github.com/kkkfasya)) 
 
 
 ## Legal Disclaimer
