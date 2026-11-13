@@ -12,9 +12,9 @@ wheels = [
 ]
 
 [[package]]
-name = "python-port-scanner"
+name = "svri261102-tugas-prokom-aa-kel8"
 version = "0.1.0"
-source = { editable = "." }
+source = { virtual = "." }
 dependencies = [
     { name = "pyfiglet" },
 ]
