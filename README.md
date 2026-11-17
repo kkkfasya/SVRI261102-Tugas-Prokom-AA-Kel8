@@ -1,7 +1,7 @@
 # Python Port Scanner
 
 Python Port Scanner is a Python script that allows you to identify open ports on one or more specified IP addresses received as argument (via command line or file).  
-Originally developed by [dev-angelist](https://github.com/dev-angelist), this project is then extended by [Fasya](https://github.com/kkkfasya/) for uni assignment purpose  
+Originally developed by [dev-angelist](https://github.com/dev-angelist), this project is then extended by Kelompok 8 SVRI261102 for uni assignment purpose  
 See Original Project Here: https://github.com/dev-angelist/Python-Port-Scanner
 
 ![image](https://github.com/dev-angelist/Python-Port-Scanner/assets/105108242/1c18de87-b48e-44b6-9a01-f676bd175021)
@@ -85,8 +85,6 @@ If you wish to contribute to this project, follow these steps:
 ## Author
 
 @dev-angelist ([GitHub profile](https://github.com/dev-angelist)) 
-@kkkfasya ([GitHub profile](https://github.com/kkkfasya)) 
-
 
 ## Legal Disclaimer
 
